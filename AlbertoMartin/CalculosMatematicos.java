@@ -1,9 +1,11 @@
 package practica;
 
 import java.util.ArrayList;
-
+/**
+ * Clase que realiza cálculos matemáticos como factoriales y validación de números primos.
+ */
 public class CalculosMatematicos {
-
+	
     public CalculosMatematicos() {
     }
 
